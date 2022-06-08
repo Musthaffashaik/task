@@ -3,3 +3,5 @@ Team 1
 rohit
 dhawan
 jedaja
+pant
+iyar
